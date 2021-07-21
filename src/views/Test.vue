@@ -10,7 +10,7 @@
 export default {
   data: function () {
     return {
-      message: "Welcome to Vue.js!",
+      message: "On the test page",
     };
   },
   created: function () {},
